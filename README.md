@@ -8,3 +8,8 @@ This project features the following:
 - Cookie-based authentication
 - Chart.js
 - Twitter API
+
+## How to run
+1. Navigate to the project folder
+2. Run `npm install` from the command line to install project dependencies
+3. Run `npm start` from the command line to build the project and start the server
