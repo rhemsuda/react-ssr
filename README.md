@@ -1,0 +1,1 @@
+Custom react server sided rendering setup with Redux implementation. This is an MVP that I created for Pathways and wanted to test my skills at implementing server-sided rendering and Redux into a React application.
