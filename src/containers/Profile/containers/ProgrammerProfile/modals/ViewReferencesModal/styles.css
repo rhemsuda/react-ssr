@@ -1,0 +1,4 @@
+#reference-scroll-area {
+  height: 60%;
+  overflow-y: scroll;
+}

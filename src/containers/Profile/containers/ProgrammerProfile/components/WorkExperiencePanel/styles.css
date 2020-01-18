@@ -1,0 +1,17 @@
+.work-experience-icon {
+  max-width: 20px;
+}
+
+.work-experience-date {
+  margin-top: -5px;
+  margin-left: 40px;
+}
+
+.reference-comment {
+  margin-top: -5px;
+  margin-bottom: 5px;
+}
+
+.work-experience-description{
+  margin-bottom: 5px;
+}

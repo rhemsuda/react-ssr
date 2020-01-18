@@ -1,0 +1,52 @@
+body {
+  background-color: #fafafa;
+  color: black;
+  margin-top: 3.5em; 
+}
+
+.align-center {
+  margin: 0 auto; 
+  width: 50%;
+}
+
+.page {
+  width: 80%;
+}
+
+.justified-text-block {
+  overflow: hidden;
+  position:relative;
+  line-height: 1em;
+  max-height: 6em;
+  text-align:justify;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  padding:7px;
+}
+
+/* .justified-text-block  {
+  overflow: hidden;
+  position: relative; 
+  line-height: 1em;
+  max-height: 6em; 
+  text-align: justify;  
+  margin-right: -1em;
+  padding-right: 1em;
+} */
+
+/* .justified-text-block:before {
+  content: '...';
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.justified-text-block:after {
+  content: '';
+  position: absolute;
+  right: 0;
+  width: 1em;
+  height: 1em;
+  margin-top: 0.2em;
+  background: white;
+} */

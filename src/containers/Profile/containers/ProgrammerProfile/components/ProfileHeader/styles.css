@@ -1,0 +1,26 @@
+.small-icon {
+  max-width: 20px;
+  margin: 5px;
+}
+
+#profilePicture {
+  max-width: 125px;
+  max-height: 125px;
+  margin: 5px 10px;
+}
+
+#nameLabel {
+  font-size: 20px;
+  margin: auto;
+  text-align: center;
+}
+
+#certificate {
+  max-width: 130px;
+  margin: 5px 10px;
+}
+
+#about {
+  max-width: 400;
+  margin-left: 20;
+}

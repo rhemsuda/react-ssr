@@ -1,0 +1,40 @@
+{
+  "marked": {
+    "src/components/Header/images/logo.png": "687f470a30de0ebbd457cd0a73a40abe.png",
+    "src/containers/JobSearch/components/JobSearchPosting/images/down-arrow.png": "d186b4b6ee9dc575a7fe1d21d149acff.png",
+    "src/containers/Profile/containers/CompanyProfile/components/CoverPhoto/images/coverphoto.png": "3392c60e5831ec9d9b1a4687561bb675.png",
+    "src/containers/Profile/containers/CompanyProfile/components/ProfileHeader/images/github.png": "45166a0932c8d7221ee2f7cdd9d3789b.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/CompanyHistory/images/history1.jpeg": "1f644f4e241c413491770755b44a117a.jpeg",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/CompanyHistory/images/history2.jpg": "73b454d19a45696b262219075a39ff0b.jpg",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/CompanyHistory/images/history3.jpg": "dc53a805e2e3b3073e9add490eb984be.jpg",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/CompanyHistory/images/history4.png": "821b9adbc4bbd14753b0d8b6f907f02a.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/ProductsPanel/images/git.png": "863f025836ca290405f6057738fe45da.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/ProductsPanel/images/gitBashCLI.png": "01aaaaefeb02874d9b810c7e12d602c2.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/ProductsPanel/images/gitRepositories.png": "a9a070d2a0c077fb68cc7a9824808929.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/ProductsPanel/images/gitlab.png": "5eca533eec6a626b6340425fd9880dd5.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/SuggestedCompanies/images/bitbucket.png": "2726d63ead5febfbddc55cfbef960a68.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/SuggestedCompanies/images/facebook.png": "d8e9cfd06c4c8c47ce4660c785c15e75.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/SuggestedCompanies/images/google.png": "b2d05008c50224f67b299b85e38f501b.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/SuggestedCompanies/images/indexexchange.png": "94fb25c5c5058682e5dcc3140c9b9277.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/SuggestedCompanies/images/microsoft.png": "b6fb48147c3521f784d4bc296a36890e.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/SuggestedCompanies/images/snapchat.png": "566abb9867984177bb9c251cf7297835.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/CompanyInfo/components/SuggestedCompanies/images/sunlife.png": "d147bc4136988773c4dbb4fa50a81c8b.png",
+    "src/containers/Profile/containers/CompanyProfile/containers/JobPostingsView/images/github.png": "45166a0932c8d7221ee2f7cdd9d3789b.png",
+    "src/containers/Profile/containers/ProgrammerProfile/components/ProfileHeader/images/canada.png": "06a3ad5a3849c5c94d36d2d491a6a8d8.png",
+    "src/containers/Profile/containers/ProgrammerProfile/components/ProfileHeader/images/conestoga.jpg": "a07c6a561b551835af8cbacc856f869d.jpg",
+    "src/containers/Profile/containers/ProgrammerProfile/components/ProfileHeader/images/default_profile.jpg": "3e0a302f439826643d7027205560c889.jpg",
+    "src/containers/Profile/containers/ProgrammerProfile/components/ProfileHeader/images/facebook.png": "bf1f7cf4d9dd68b2142a02ec6d33df26.png",
+    "src/containers/Profile/containers/ProgrammerProfile/components/ProfileHeader/images/fullstack_cert.jpg": "ee4241d66dfc1ac4f6d56aeef549c7cf.jpg",
+    "src/containers/Profile/containers/ProgrammerProfile/components/ProfileHeader/images/github.png": "22ac20d01a5c5f7918b975c0f9c786d4.png",
+    "src/containers/Profile/containers/ProgrammerProfile/components/ProfileHeader/images/gmail.png": "2c1a7560c88ea83e6b2593cd07af8ad8.png",
+    "src/containers/Profile/containers/ProgrammerProfile/components/ProfileHeader/images/microsoft.png": "70eb9bccdc76f5559b56979ff17a2c68.png",
+    "src/containers/Profile/containers/ProgrammerProfile/components/ProfileHeader/images/whistler.png": "2586fb3bde4a1af3ecf60c1bca7798a8.png",
+    "src/containers/Profile/containers/ProgrammerProfile/components/VolunteerExperiencePanel/images/hackthenorth.jpg": "0dc4a63f81eb167f322ab504b319e907.jpg",
+    "src/containers/Profile/containers/ProgrammerProfile/components/WorkExperiencePanel/images/microsoft.png": "70eb9bccdc76f5559b56979ff17a2c68.png",
+    "src/containers/Profile/containers/ProgrammerProfile/modals/ViewReferencesModal/images/envelope.png": "9df8ddf16a6325914c154c858da25c3f.png",
+    "src/containers/TestCatalogue/StartOCEANTest/images/ocean.png": "a494f9ca5baffe1151b0c7460869e4d5.png"
+  },
+  "chunks": {
+    "main": "bundle.js"
+  }
+}

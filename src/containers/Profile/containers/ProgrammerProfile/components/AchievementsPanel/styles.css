@@ -1,0 +1,8 @@
+.scrollMenu {
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.testScorePanel {
+  display: inline-block;
+}
