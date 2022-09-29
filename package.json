@@ -20,7 +20,7 @@
     "compression": "^1.7.3",
     "concurrently": "^3.6.1",
     "cookie-parser": "^1.4.4",
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "express": "^4.16.4",
     "express-http-proxy": "^1.5.1",
     "isomorphic-loader": "^2.0.2",
